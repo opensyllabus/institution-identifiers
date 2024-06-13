@@ -3,15 +3,15 @@ Educational &amp; Research institutions mapping between ROR, GRID, IPEDs, and Wi
 
 ## Schema
 
-`ror_id`: [Research Organization Registry](https://ror.org/) (ROR) identifier.
+`ror_id`: [Research Organization Registry](https://ror.org/) (ROR) identifier. Educational institutions only.
 
 `grid_id`: [Global Research Identifier Database](https://www.grid.ac/) (GRID) identifier. GRID has been deprecated and superseded by ROR.
 
 `wikidata_id`: [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) identifier. Used for creating the crosswalk between identifiers.
 
-`unitid`: [Integrated Postsecondary Education Data System](https://nces.ed.gov/ipeds) (IPEDS) identifier. US institutions only.
+`unitid`: [Integrated Postsecondary Education Data System](https://nces.ed.gov/ipeds) (IPEDS) identifier. US only by nature.
 
-`name`: Name of the institution. There may be errors or different from other records.
+`name`: Name of the institution. There may be some errors and/or the exact name might be different from other records.
 
 ## Things to note
 
