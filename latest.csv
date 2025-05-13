@@ -438,7 +438,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 03t78wx29,grid.257022.0,Q115220,,Hiroshima University
 00bx6dj65,grid.257114.4,Q1323040,,Hosei University
 02my3bx32,grid.257143.6,Q5927051,,Hubei University of Chinese Medicine
-00e0c0q64,grid.257411.4,Q6023671,,Indiana University – Purdue University Columbus
+00e0c0q64,grid.257411.4,,,Indiana University – Purdue University Columbus
 02fzfx471,grid.257435.2,Q2028659,,Indira Gandhi National Open University
 00ac5y077,grid.257636.3,Q10302676,,Instituto Superior Autónomo de Estudos Politécnicos
 04mkzax54,grid.258151.a,Q6191676,,Jiangnan University
@@ -1286,7 +1286,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 046bk9643,grid.413222.4,Q5588975,,"Government Medical College, Amritsar"
 019e4d354,grid.413223.5,Q5588989,,Government Medical College
 04y908s98,grid.413224.2,,,Government Medical College
-007fenw03,grid.413226.0,Q5588995,,Government Medical College
+007fenw03,grid.413226.0,,,Government Medical College
 05kn6fr85,grid.413228.e,Q5588977,,Government Medical College
 05w6g2m14,grid.413229.f,Q5588985,,Government Medical College
 005h6qd35,grid.413230.7,Q5588978,,Government Medical College
@@ -1518,7 +1518,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 055mf0v62,grid.419784.7,Q849209,,King Mongkut's Institute of Technology Ladkrabang
 039e7bg24,grid.419832.5,Q14415444,,University of Taipei
 044m46d61,grid.419877.4,Q7692468,,Technological Educational Institute of Athens
-039ce0m20,grid.419879.a,Q3556547,,Hellenic Mediterranean University
+039ce0m20,grid.419879.a,,,Hellenic Mediterranean University
 006qz8583,grid.419902.7,Q5628071,,Mahatma Gandhi Kashi Vidyapith
 053bg5z25,grid.419985.8,Q1982545,,New England Complex Systems Institute
 003fgzm76,grid.419986.b,,,Mount Carmel College of Nursing
@@ -1678,7 +1678,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02d8tke50,grid.425412.4,,,Emergency Services College
 03hdaef25,grid.425628.f,Q5710515,,Helsinki Metropolia University of Applied Sciences
 04v2brz27,grid.425862.f,Q872071,,MODUL University Vienna
-0510ppv76,grid.425990.3,,,Rēzeknes Augstskola
+0510ppv76,grid.425990.3,Q3801493,,Rēzeknes Augstskola
 04ss55z27,grid.426053.6,,,Observatoire des énergies renouvelables
 004af2v94,grid.426208.a,Q3655709,,ORT Braude College
 02e10zk80,grid.426210.3,,,ORT France
@@ -2154,7 +2154,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00k62pe27,grid.438275.f,Q686171,,Technical University of Applied Sciences Wildau
 03h362x79,grid.438292.6,Q17073436,,Missoula County Public Schools
 05t197591,grid.438296.2,Q2716043,,American University of Paris
-0064e3s97,grid.438302.e,,,ALBA Graduate Business School
+0064e3s97,grid.438302.e,Q4652250,,ALBA Graduate Business School
 04danph04,grid.438307.b,Q588929,,British School at Rome
 02mrv4556,grid.438322.c,,,Technopolis
 02vtemz45,grid.438347.f,Q7730313,,Discovery Programme
@@ -2167,9 +2167,9 @@ ror_id,grid_id,wikidata_id,unitid,name
 05as1qb59,grid.438736.d,Q7707732,,Texas Higher Education Coordinating Board
 021k2cy37,grid.438815.3,Q3551499,,Università degli Studi Suor Orsola Benincasa
 01svqjv39,grid.438832.6,Q6978054,,University Graduate Center
-00yeyhb94,grid.438841.2,Q6081675,,Uluslararası Antalya Üniversitesi
+00yeyhb94,grid.438841.2,,,Uluslararası Antalya Üniversitesi
 04ckzt204,grid.438843.0,Q7851176,,Tucson Unified School District
-00xfvkq36,grid.438846.5,Q80171,,Vasyl' Stus Donetsk National University
+00xfvkq36,grid.438846.5,,,Vasyl' Stus Donetsk National University
 026y0w292,grid.438880.f,Q7859526,,Twyford Church of England High School
 00mw0tw28,grid.438882.d,Q656086,,University of Nova Gorica
 00vbbfz92,grid.438960.0,,,Welding Research Institute - Industrial Institute SR
@@ -3483,7 +3483,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 0400yw722,grid.442321.2,Q30294166,,South African College of Applied Psychology
 0170ffh34,grid.442322.1,,,Institut Supérieur du Génie Appliqué
 0160m7k04,grid.442324.7,Q30294168,,Institut Supérieur de Technique Médicale
-02b2fgs53,grid.442326.5,Q7592554,,St Augustine College of South Africa
+02b2fgs53,grid.442326.5,,,St Augustine College of South Africa
 049ta3d96,grid.442328.b,Q30294170,,Institute For Leadership And Communication Studies
 04xbsst68,grid.442329.a,Q21512516,,École Nationale Supérieure Agronomique
 042y9a646,grid.442330.2,Q6051094,,International Institute for Higher Education in Morocco
@@ -3944,7 +3944,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02erz7116,grid.442889.b,Q1061900,,Gakushūin School Corporation
 057ts1y80,grid.442890.3,Q1674165,,Islamic University of Gaza
 03x1wer98,grid.442891.2,Q11419401,,Kaetsu University
-03e99kh24,grid.442893.0,Q288605,,Al-Aqsa University
+03e99kh24,grid.442893.0,,,Al-Aqsa University
 027dkjg03,grid.442894.7,Q6383857,,Keisen University
 02gfhhc90,grid.442896.5,Q6428231,,Komazawa Women's University
 00sew4x53,grid.442898.b,Q7077867,,Odlar Yurdu University
@@ -4011,7 +4011,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02bnddg69,grid.442968.5,Q5151843,,Comilla University
 00jcrsy58,grid.442969.4,Q7635119,,Sugino Fashion College
 04wfbp123,grid.442970.c,Q4696357,,Ahsanullah University of Science and Technology
-02c733g32,grid.442971.d,Q30294419,,Universitas Tulang Bawang Lampung
+02c733g32,grid.442971.d,,,Universitas Tulang Bawang Lampung
 02j8ga255,grid.442972.e,Q3194784,,American International University-Bangladesh
 00c2t9540,grid.442973.f,Q912375,,Taisho University
 01mm32049,grid.442974.8,Q3547539,,University of Caloocan City
@@ -4296,7 +4296,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 056fhh809,grid.443335.6,Q4805171,,Ashiya University
 01g0jya04,grid.443336.5,Q5221862,,Dar Al-Hekma University
 01d357781,grid.443338.b,Q30294472,,Kwik Kian Gie School of Business
-00syyzh74,grid.443339.a,Q30294473,,Institut Bisnis Nusantara
+00syyzh74,grid.443339.a,,,Institut Bisnis Nusantara
 01jra8x56,grid.443340.4,Q3806225,,Institut Kesenian Jakarta
 02x3ztz93,grid.443341.5,Q2975784,,Shoin University
 05j412v70,grid.443342.6,Q843472,,Beppu University
@@ -4336,7 +4336,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00kgrdz47,grid.443396.f,Q5275880,,Digital Hollywood University
 004eeze55,grid.443397.e,Q5639372,,Hainan Medical University
 01r61sr78,grid.443398.1,Q985670,,China Academy of Art
-03pscpn55,grid.443399.0,Q4208076,,Kazakh Academy of Transport and Communications named after M.Tynyshpaev
+03pscpn55,grid.443399.0,,,Kazakh Academy of Transport and Communications named after M.Tynyshpaev
 05b4za178,grid.443400.7,Q12523428,,Universitas Pembangunan Nasional Veteran Jakarta
 01ch6q924,grid.443401.6,Q11300904,,Globis University Graduate School of Management
 043vmz451,grid.443402.5,Q7663251,,Syrian Virtual University
@@ -4548,7 +4548,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 05baqgp89,grid.443680.d,Q12523343,,Universitas Islam Makassar
 03kc2e209,grid.443681.c,Q6932911,,Muhammadiyah University of Makassar
 045t90p09,grid.443682.f,Q7813632,,Tokiwakai Gakuen University
-00sme9021,grid.443683.e,Q7813300,,Tohoku Women's College
+00sme9021,grid.443683.e,,,Tohoku Women's College
 02c0s8023,grid.443684.9,Q12523408,,Universitas Muslim Indonesia
 03m7a5q02,grid.443685.8,Q1799929,,University of the Thai Chamber of Commerce
 00f5esq17,grid.443686.b,Q5760279,,Hijiyama University
@@ -4663,7 +4663,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 04yff2m38,grid.443818.2,Q16183320,,Institut Sains dan Teknologi TD Pardede
 045qyjz25,grid.443819.3,Q625952,,Baekseok University
 02ev5wr74,grid.443820.9,Q4922775,,Hatyai University
-03tc2j669,grid.443821.8,Q30294569,,Institut Teknologi Medan
+03tc2j669,grid.443821.8,,,Institut Teknologi Medan
 03hd23385,grid.443822.b,Q17067248,,Sokhumi State University
 03ewepe58,grid.443824.d,Q12523291,,Al-Azhar University
 02g702008,grid.443825.c,Q2128631,,Kalasin University
@@ -4989,7 +4989,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01cyq8n55,grid.444336.2,Q4402470,,Asia University
 00nt6ka44,grid.444337.3,Q6035202,,Çağ University
 00mc6bw20,grid.444338.c,Q18352507,,Dr. C. V. Raman University
-00a8hpd04,grid.444340.3,,,Niigata University of Rehabilitation
+00a8hpd04,grid.444340.3,Q11502812,,Niigata University of Rehabilitation
 01a3w2x24,grid.444341.2,Q3630817,,Magadh University
 04svrs371,grid.444342.1,Q30294745,,Universitas Bangun Nusantara
 04k0d3t24,grid.444344.7,Q4702653,,Al-Kafaàt University
@@ -5077,7 +5077,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01mh73q44,grid.444453.6,Q7235345,,Potti Sreeramulu Telugu University
 00n619376,grid.444454.1,Q12523483,,Universitas Wijaya Kusuma Surabaya
 02cgbcj98,grid.444455.0,Q4119675,,Limkokwing University of Creative Technology
-0380hzw75,grid.444457.2,Q16948249,,Universitas Wijaya Putra
+0380hzw75,grid.444457.2,,,Universitas Wijaya Putra
 038aqt498,grid.444458.d,Q6441018,,Infrastructure University Kuala Lumpur
 01r3kjq03,grid.444459.c,Q4670157,,Abu Dhabi University
 04mzg6j57,grid.444460.6,Q3635521,,English and Foreign Languages University
@@ -5141,7 +5141,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 05enmgs39,grid.444536.4,Q3348916,,West Bengal National University of Juridical Sciences
 02a7zg443,grid.444538.a,Q1097182,,University of the Humanities
 01zte6c10,grid.444539.b,Q30294770,,Universitas Cordova
-01nag1a70,grid.444540.5,Q30294771,,Institut Teknologi Indonesia
+01nag1a70,grid.444540.5,,,Institut Teknologi Indonesia
 04fm2fn75,grid.444541.4,Q10996442,,Kalasalingam Academy of Research and Education
 03pkka491,grid.444542.7,Q12523352,,Universitas Islam Syekh Yusuf
 04zj95y60,grid.444543.6,Q3520936,,Dravidian University
@@ -5159,7 +5159,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 040gghh09,grid.444556.2,Q5115970,,Chugoku Gakuen University
 05999pw96,grid.444559.d,Q12523422,,Universitas Pancasakti Tegal
 00kxafy15,grid.444560.7,Q6889868,,Mody University of Science and Technology
-0085esk58,grid.444563.4,Q12523369,,Universitas Kutai Kartanegara
+0085esk58,grid.444563.4,,,Universitas Kutai Kartanegara
 011w3dy65,grid.444565.2,Q4902173,,Bhupendra Narayan Mandal University
 04t9wmk29,grid.444566.1,Q7081869,,Okayama Gakuin University
 05rap1m08,grid.444567.0,Q7056234,,Maharaja Sriram Chandra Bhanja Deo University
@@ -5218,7 +5218,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00nmvbd84,grid.444634.5,Q12523348,,Sunan Kalijaga State Islamic University Yogyakarta
 05j20qz36,grid.444635.4,Q12523354,,Janabadra University
 03mry3754,grid.444637.6,Q30294784,,Universitas Kristen Immanuel
-0350qvj56,grid.444642.4,,,Karshi State University
+0350qvj56,grid.444642.4,Q20536381,,Karshi State University
 0362r6n51,grid.444643.5,,,Kokand State Pedagogical Institute named after Mukimi
 02n9z0v62,grid.444644.2,Q4746980,,Amity University
 037tgdn13,grid.444645.3,Q15262325,,Hindustan Institute of Technology and Science
@@ -5332,7 +5332,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00pxasb28,grid.444781.a,Q19829484,,Bunka Fashion Graduate University
 01e0ns064,grid.444782.9,,,University of East
 03yfe9v83,grid.444783.8,Q4698242,,Air University
-01hxe3g21,grid.444788.3,Q30294812,,Hanoi University of Culture
+01hxe3g21,grid.444788.3,,,Hanoi University of Culture
 04edybc52,grid.444790.a,Q4919274,,Biwako Seikei Sport College
 0130a6s10,grid.444791.b,Q5474367,,Foundation University Islamabad
 01tmmzv45,grid.444792.8,Q13138872,,Institute of Space Technology
@@ -5348,7 +5348,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 03mq68c95,grid.444805.9,Q7813659,,Tokoha Gakuen University
 05dsae220,grid.444806.a,Q6401105,,Khayyam University
 03fvscn16,grid.444807.b,Q3551843,,Okinawa Prefectural University of Arts
-01s5r7k60,grid.444809.5,Q30294819,,Razavi University of Islamic Sciences
+01s5r7k60,grid.444809.5,,,Razavi University of Islamic Sciences
 02bdt4v11,grid.444810.d,Q7125593,,Pakistan Institute of Development Economics
 00phht511,grid.444811.c,Q7687220,,Tashkent Institute of Architecture and Construction
 0575ttm03,grid.444814.9,Q6809808,,Mehran University of Engineering and Technology
@@ -5391,7 +5391,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 04bxa3v83,grid.444860.a,Q7498336,,Shiraz University of Technology
 01s4mx151,grid.444861.b,Q17372833,,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers
 016grcy95,grid.444863.9,Q7677240,,Takaoka University of Law
-043h9aq51,grid.444865.f,,,Tashkent Islamic University
+043h9aq51,grid.444865.f,Q16705028,,Tashkent Islamic University
 03j9sfh72,grid.444866.c,Q7677279,,Takarazuka University of Arts & Crafts
 005d8s603,grid.444867.d,Q6040322,,University of Finance and Economics
 048w4c951,grid.444868.2,Q6039976,,Institute of Business Management
@@ -5669,7 +5669,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 045m60334,grid.445236.2,Q6380876,,Kazan State University of Culture and Arts
 04nxym641,grid.445238.c,Q16656914,,Kazan State Agrarian University
 00epajq42,grid.445239.d,Q2015579,,Sukhothai Thammathirat Open University
-04bmtez11,grid.445245.6,Q30257284,,DOBA Business School
+04bmtez11,grid.445245.6,,,DOBA Business School
 005q8d646,grid.445248.b,Q30257286,,European Faculty of Law
 03pmgn266,grid.445251.3,Q19933492,,Faculty of Applied Social Studies in Nova Gorica
 01sby4e06,grid.445252.0,,,Nizhny Novgorod State Conservatory named after M.I. Glinka
@@ -5796,7 +5796,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00whe2089,grid.445415.5,Q1968183,,Donetsk National Technical University
 04rszy995,grid.445416.6,Q7035695,,Nikola Vaptsarov Naval Academy
 04z3dv266,grid.445417.7,,,Kostroma State Agricultural Academy
-02rntm597,grid.445420.3,Q30257378,,Omsk Academy of the Russian Interior Ministry
+02rntm597,grid.445420.3,,,Omsk Academy of the Russian Interior Ministry
 041maek06,grid.445421.2,Q9380732,,Wyższa Szkoła Edukacji Zdrowotnej i Nauk Społecznych w Łodzi
 027n8z047,grid.445422.1,Q1629255,,St. Cyril and St. Methodius University of Veliko Tarnovo
 006ks2460,grid.445425.6,Q633782,,Juraj Dobrila University of Pula
@@ -5854,7 +5854,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 04ybx1t57,grid.445494.c,Q30257420,,Krasnoyarsk State Academy of Music and Theatre
 05vjhj012,grid.445495.d,,,"Prywatna Wyższa Szkoła Nauk Społecznych, Komputerowych i Medycznych"
 05p3gfq61,grid.445496.e,Q4239242,,Krasnoyarsk State Agrarian University
-01q5jse34,grid.445497.f,Q4239224,,Krasnoyarsk State Institute of Art
+01q5jse34,grid.445497.f,,,Krasnoyarsk State Institute of Art
 00nszah81,grid.445498.0,Q4239244,,Krasnoyarsk State Pedagogical University
 03djm2720,grid.445499.1,Q4418288,,Siberian State Technological University
 02wbhea49,grid.445502.2,Q30257425,,Academy of Federal Security Guard Service of Russian Federation
@@ -5863,11 +5863,11 @@ ror_id,grid_id,wikidata_id,unitid,name
 02375ts60,grid.445507.7,,,New Siberian Institute
 05mjwh489,grid.445508.8,Q414221,,Academy of Performing Arts in Prague
 03arvv474,grid.445510.1,Q4763585,,Anglo-American University
-02n4s8f32,grid.445511.0,Q30257429,,Uczelnia Warszawska im. Marii Skłodowskiej-Curie
+02n4s8f32,grid.445511.0,,,Uczelnia Warszawska im. Marii Skłodowskiej-Curie
 00gjv5s24,grid.445512.3,Q56803,,H.S. Skovoroda Kharkiv National Pedagogical University
 03pjs2912,grid.445513.2,Q30257430,,Warsaw University of Technology Business School
 05r50mj29,grid.445515.4,Q174220,,Siberian State Aerospace University
-011wzff38,grid.445516.7,Q11046731,,College of Banking
+011wzff38,grid.445516.7,,,College of Banking
 015jqsk41,grid.445519.8,Q30257433,,Penza State Agricultural Academy
 00v8szc63,grid.445520.2,Q30257434,,Warszawska Szkoła Zarządzania - Szkoła Wyższa
 04a4sww29,grid.445521.3,Q4315123,,National University of Civil Defense of Ukraine
@@ -6039,7 +6039,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00pzf4g66,grid.445750.7,Q12719874,,Mircea cel Batran Naval Academy
 02d6sp246,grid.445753.4,,,Károly Róbert University College
 04t09e441,grid.445755.2,,,Volga Business Institute
-02nh5kj96,grid.445756.1,Q30257547,,National Academy of Fine Art and Architecture
+02nh5kj96,grid.445756.1,,,National Academy of Fine Art and Architecture
 031p96b92,grid.445757.0,Q12742873,,Universitatea Andrei Şaguna
 034f9zy16,grid.445759.e,Q4406365,,Samara State Institute of Culture
 03xay8k75,grid.445760.4,,,Constanta Maritime University
@@ -6120,7 +6120,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00nxz6d14,grid.445868.3,Q1131600,,State University of Management
 04rep4w03,grid.445869.2,Q17455779,,Izmail State University of Humanities
 02h9hn661,grid.445870.a,Q7467352,,Latvian Academy of Sport Education
-010btwb70,grid.445871.b,Q4166082,,Donbas National Academy of Civil Engineering and Architecture
+010btwb70,grid.445871.b,,,Donbas National Academy of Civil Engineering and Architecture
 01c3xmp59,grid.445872.8,Q4146979,,State University of Land Use Planning
 02jmvh098,grid.445874.e,Q4761983,,Angarsk State Technical Academy
 04fpqn730,grid.445875.f,,,International Banking Institute
@@ -6163,9 +6163,9 @@ ror_id,grid_id,wikidata_id,unitid,name
 01pjy1768,grid.445920.e,Q30257619,,Armavir Linguistic Social Institution
 02tj4bx84,grid.445921.f,,,Armavir Orthodox-Social Institute
 056ad8q42,grid.445922.c,Q1737499,,Kazimieras Simonavičius University
-04kayk232,grid.445925.b,Q4407667,,North-Western State Medical University named after I.I. Mechnikov
+04kayk232,grid.445925.b,,,North-Western State Medical University named after I.I. Mechnikov
 03fx0zp19,grid.445926.8,Q30257621,,Odessa National O.S.Popov Academy of Telecommunication
-043rtjx90,grid.445927.9,Q30257622,,Odessa National A. V. Nezhdanova Academy of Music
+043rtjx90,grid.445927.9,,,Odessa National A. V. Nezhdanova Academy of Music
 048d53c31,grid.445929.7,,,Dagestan State Institute of National Economy
 04gpw1v92,grid.445930.f,Q3406583,,European University
 000hzy098,grid.445931.e,Q3700204,,Saint Petersburg State Pediatric Medical University
@@ -6270,7 +6270,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 04a7x2s11,grid.446074.5,Q4579140,,Oslo School of Architecture and Design
 017vp5k51,grid.446075.4,Q4408431,,Saratov State Academy of Law
 03r9jhj30,grid.446076.7,Q2022998,,Saratov State Conservatory named after L. V. Sobinov
-04agtv307,grid.446077.6,,,Saratov State Agrarian University named after N.I .Vavilov
+04agtv307,grid.446077.6,Q4408456,,Saratov State Agrarian University named after N.I .Vavilov
 020z26690,grid.446078.9,Q1054816,,Moscow State Linguistic University
 01qafy255,grid.446080.e,Q6516648,,"MF Norwegian School of Theology, Religion and Society"
 018h19434,grid.446081.f,,,Institute of Practical Oriental Studies
@@ -6613,7 +6613,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 05kr6gy36,grid.448711.f,Q6372916,,Karnataka State Women's University
 05mknbx32,grid.448714.a,Q6303953,,Åland University of Applied Sciences
 01b7wh712,grid.448715.b,Q4207816,,Kazan State Technical University named after A. N. Tupolev
-039akp542,grid.448716.8,Q4140322,,Oleksandr Dovzhenko Hlukhiv National Pedagogical University
+039akp542,grid.448716.8,,,Oleksandr Dovzhenko Hlukhiv National Pedagogical University
 02qy8xv65,grid.448717.9,Q6381094,,Kazi Nazrul University
 0552kp582,grid.448718.6,Q5053269,,Catholic University of South Sudan
 01epw0x06,grid.448719.7,Q5429530,,Fahd bin Sultan University
@@ -6935,7 +6935,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 05ptwtz25,grid.449212.8,Q7513486,,Siirt University
 03bnp9h65,grid.449213.9,Q6082260,,"Islamic Azad University, Bandar Anzali Branch"
 00rmfj856,grid.449214.e,Q4808374,,Assam Don Bosco University
-05fbv2v73,grid.449216.c,Q15228860,,Islamic Azad University of Arsanjan
+05fbv2v73,grid.449216.c,,,Islamic Azad University of Arsanjan
 012g45386,grid.449217.d,Q890684,,Papua New Guinea University of Technology
 023bes347,grid.449218.2,Q16734102,,Sikkim Manipal University
 02p42am41,grid.449219.3,Q15627838,,Islamic Azad University of Birjand
@@ -7074,11 +7074,11 @@ ror_id,grid_id,wikidata_id,unitid,name
 00mkp3p47,grid.449396.5,Q6167940,,Jayoti Vidyapeeth Women's University
 01y5fjx51,grid.449397.4,Q7267904,,Hainan Tropical Ocean University
 029d56x50,grid.449399.a,Q7589504,,St. Lawrence University
-040jmyh64,grid.449400.d,,,Jaypee University of Engineering and Technology
+040jmyh64,grid.449400.d,Q15229463,,Jaypee University of Engineering and Technology
 01n7ngw29,grid.449401.c,Q6979854,,NationsUniversity
 0382vme49,grid.449402.f,Q15813240,,Quality Leadership University Panama
 04hjsag95,grid.449403.e,Q6108045,,JECRC University
-02qahtf82,grid.449404.9,Q6981932,,Naval State University
+02qahtf82,grid.449404.9,,,Naval State University
 045jvzr81,grid.449405.8,Q2406422,,Quảng Bình University
 04ft1xc20,grid.449410.c,Q7590045,,St. Martinus University
 049te8947,grid.449413.f,Q3551652,,Nayanova University
@@ -7618,7 +7618,6 @@ ror_id,grid_id,wikidata_id,unitid,name
 01m7awg34,grid.454600.3,,,Clayton College of Natural Health
 0002yq607,grid.454602.1,,,Henry Cogswell College
 03zkhjb46,grid.454621.0,Q17010136,,Midwestern Baptist College
-01my2ss20,grid.454624.5,Q1047226,,Hult International Business School
 020ct4t61,grid.454631.1,Q3308581,,Pensacola Christian College
 022xj6v07,grid.454640.7,Q6905297,,Monterey College of Law
 03f516154,grid.454644.3,Q7295135,,Rasmussen College
@@ -7794,7 +7793,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02xrpdt68,grid.459723.e,,,Luohe Medical College
 036cvz290,grid.459727.a,Q10878372,,Leshan Normal University
 02xay1410,grid.459741.a,,,Mathrusri Ramabai Ambedkar Dental College & Hospital
-00qbb2v66,grid.459743.8,,,Kharkiv University of Air Force
+00qbb2v66,grid.459743.8,Q4496355,,Kharkiv University of Air Force
 05jjqbw81,grid.459756.c,,,Lillebaelt Academy University of Applied Sciences
 05wasnw28,grid.459768.1,Q6084681,,Meliksah University
 000yesh06,grid.459793.5,Q30260592,,Navodaya Dental College and Hospital
@@ -8040,7 +8039,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01b1fn946,grid.461972.f,,,"American College, Madurai"
 03wafw466,grid.461974.9,Q5123119,,City College Norwich
 00pvhed30,grid.461975.8,Q5123283,,City Literary Institute
-05kwk4552,grid.461976.b,,,American School of Classical Studies at Athens
+05kwk4552,grid.461976.b,Q466718,,American School of Classical Studies at Athens
 039rg3x29,grid.461977.a,Q5123606,,City of Bristol College
 0403nm782,grid.461978.5,Q4744942,,American School of Milan
 035xenz28,grid.461979.4,Q4744950,,American School of Warsaw
@@ -8048,7 +8047,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 034pj3s87,grid.461996.5,,,Kazakh-Russian International University
 05ahxa252,grid.461997.4,Q4654070,,ASA University Bangladesh
 00561gr17,grid.462006.6,Q5142094,,Colchester Institute
-05kx58550,grid.462013.2,Q5146743,,College of Islamic and Arabic Studies
+05kx58550,grid.462013.2,,,College of Islamic and Arabic Studies
 03jxg4w44,grid.462016.7,Q5146895,,College of the Rockies
 027697215,grid.462018.9,Q5146873,,College of West Anglia
 05jfg8552,grid.462022.0,Q5149619,,Columbia Bible College
@@ -8197,7 +8196,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01h7y9k21,grid.462650.3,Q6983298,,Nazareth Academy
 03z54xm22,grid.462651.2,Q1973138,,Near East School of Theology
 05n68xc32,grid.462653.0,Q14874878,,NorQuest College
-04zk97n46,grid.462655.6,,,New College Durham
+04zk97n46,grid.462655.6,Q15261971,,New College Durham
 02yps9f67,grid.462660.0,,,New Europe College
 02qzs9336,grid.462662.2,Q15261111,,National College of Ireland
 04q2sd920,grid.462675.4,Q15262510,,North East Surrey College of Technology
@@ -8976,7 +8975,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 038svqn12,grid.466242.0,,,Wyższa Szkoła Zarządzania i Przedsiębiorczości
 01ej3e061,grid.466243.1,,,Philosophisch-Theologische Hochschule SVD St. Augustin
 01kdhhd16,grid.466245.7,,,Brussels Management School
-01v8nfs80,grid.466246.4,,,"Warsaw Academy of Computer Science, Management and Administration"
+01v8nfs80,grid.466246.4,Q9380765,,"Warsaw Academy of Computer Science, Management and Administration"
 02hdve317,grid.466248.a,,,Academy of Fine Arts Karlsruhe
 03er55z68,grid.466249.b,,,Haute École Charlemagne
 007cpvh39,grid.466251.2,Q17347055,,Haute École en Hainaut
@@ -9010,7 +9009,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 04j1sr579,grid.466285.b,,,"Hochschule für Gesundheit & Sport, Technik & Kunst"
 01d4n6n22,grid.466286.8,,,Hochschule für Kunsttherapie Nürtingen
 035ckv436,grid.466288.6,,,Fakultet za Mediteranske Poslovne Studije
-05ygfpx91,grid.466289.7,,,SRH Fernhochschule Riedlingen
+05ygfpx91,grid.466289.7,Q2207700,,SRH Fernhochschule Riedlingen
 01jq1mc68,grid.466291.e,,,Fakultet za menadžment Herceg Novi
 02qbcmz19,grid.466292.d,,,University of Applied Sciences for Public Administration and Management
 03ba15j53,grid.466293.c,Q3577909,,École de Recherche Graphique
@@ -9206,7 +9205,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02r140y61,grid.466754.2,,,Instituição Toledo de Ensino
 04je48v27,grid.466755.3,,,Instituto Federal do Rio Grande do Norte
 01r17ea31,grid.466757.1,,,Grupo Ibmec Educacional
-00g241p78,grid.466761.4,Q6082132,,Plato College of Higher Education
+00g241p78,grid.466761.4,,,Plato College of Higher Education
 02914ef02,grid.466765.0,Q6049076,,International Centre for Education in Islamic Finance
 02j8pmw82,grid.466775.1,Q6020641,,Indian Institute of Management Indore
 052vdrx60,grid.466778.c,Q6020656,,Indian Institute of Management Tiruchirappalli
@@ -10201,7 +10200,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02tefzr61,grid.472150.5,,,University of Tokyo Health Sciences
 03mfwnv44,grid.472153.6,,,Yamamura Gakuen College
 03w09vt43,grid.472154.1,,,Minabe Senior High School
-00gnxy932,grid.472155.0,Q7813289,,Tohoku Bunkyo University
+00gnxy932,grid.472155.0,,,Tohoku Bunkyo University
 04cqva373,grid.472157.2,,,Yamagata Prefectural Sagae High School
 05j02vt11,grid.472159.c,,,Yamagata Prefectural Mamurogawa High School
 002bhvh12,grid.472162.4,,,Yokohama College of Art and Design
@@ -11212,7 +11211,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01b45e393,grid.495380.3,,,Samara Academy of State and Municipal Management
 04wgdr728,grid.495391.3,,,Guangzhou Research Institute of Synthetic Materials
 010fems46,grid.495398.a,,,Guangzhou Design Institute
-02xyaf767,grid.495423.d,Q54628876,,Transnational University Limburg
+02xyaf767,grid.495423.d,Q2668892,,Transnational University Limburg
 0220p2586,grid.495426.8,Q52849320,,Guizhou Institute of Biology
 00ctyfm67,grid.495432.d,,,Nanjing Institute of Railway Technology
 05qvskn85,grid.495434.b,,,Xinxiang University
@@ -11603,7 +11602,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01mryv087,grid.501858.1,,,The K.R. Cama Oriental Institute
 034p3rp25,grid.501865.f,,,Kazakhstan Medical University
 01hxaqe16,grid.501867.d,Q6411557,,King Fahd Security College
-05qxwht78,grid.501872.9,,,Dmitri Hvorostovsky Siberian State Institute of Arts
+05qxwht78,grid.501872.9,Q4239224,,Dmitri Hvorostovsky Siberian State Institute of Arts
 022cj9d07,grid.501873.8,Q5006166,,Ladies College
 01ex19q32,grid.501874.f,Q6413758,,Kingswood Oxford
 05m905s87,grid.501875.e,Q16046819,,"Islamic Azad University, Masjed Soleyman"
@@ -11929,7 +11928,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 03f90br77,grid.506359.c,,,Mashreq University
 00whjrr70,grid.506380.8,,,Education and Training Service for Hamburg Businesses
 00wg9tw09,grid.506401.6,,,Institut für Textoptimierung
-04qv8g759,grid.506407.0,Q56404208,,International Baccalaureate
+04qv8g759,grid.506407.0,,,International Baccalaureate
 01c1pcz80,grid.506438.c,Q1746770,,Kleine Private Lehrinstitut Derksen
 03dyvyv84,grid.506442.1,,,Felsenweg-Institut
 0547r0f90,grid.506454.6,Q1802250,,Landesinstitut für Schule und Medien Berlin-Brandenburg
@@ -12096,11 +12095,11 @@ ror_id,grid_id,wikidata_id,unitid,name
 0510rka91,grid.508485.4,,,Adwa-Pan African University
 02k9trd04,grid.508486.7,Q97041900,,Pan African Institute for Development
 030dn1812,grid.508494.4,Q42322951,,Marwadi University
-03exthx58,grid.508506.e,Q54485122,,Swiss Distance University Institute
+03exthx58,grid.508506.e,,,Swiss Distance University Institute
 04730gw90,grid.508507.f,Q11558937,,Marine Technical College
 02f0psx94,grid.508508.0,,,Polytechnic University
 00zev5680,grid.508509.1,Q2826874,,Agitel-Formation
-03f6z9r32,grid.508510.9,Q5555358,,Ghana Institute of Journalism
+03f6z9r32,grid.508510.9,,,Ghana Institute of Journalism
 044r8r947,grid.508511.8,Q5555360,,Ghana Institute of Languages
 02ghmtw61,grid.508512.b,Q30591646,,Loyola University of Congo
 04mhy5c57,grid.508513.a,,,Instituto Superior Politécnico de Tecnologia e Ciências
@@ -12134,7 +12133,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 037fm3958,grid.508668.5,Q21714634,,University of Halabja
 02dsdsv34,grid.508719.2,,,Hochschule für Polizei und Öffentliche Verwaltung Nordrhein-Westfalen
 01tbnxe16,grid.508722.a,,,BRIQ Institute on Behavior and Inequality
-03w2cmy34,grid.508727.f,,,FernUni Schweiz
+03w2cmy34,grid.508727.f,Q54485122,,FernUni Schweiz
 05vgg3342,grid.508733.a,,,HES-SO Vaud
 02zzkv309,grid.508734.d,,,HES-SO Arc
 03081nz23,grid.508740.e,Q28160625,,Istinye University
@@ -12306,7 +12305,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01rcg2640,grid.511146.6,,,Banki College
 03fg2km54,grid.511228.d,,,Institute for Advanced Study in Toulouse
 03ksbpa13,grid.511252.0,,,Jiangsu Food and Pharmaceutical Science College
-02c8cxy67,grid.511301.7,,,Donbas National Academy of Civil Engineering and Architecture - Kramatorsk
+02c8cxy67,grid.511301.7,Q4166082,,Donbas National Academy of Civil Engineering and Architecture - Kramatorsk
 05jzt2178,grid.511366.6,Q7270432,,Queen Margaret's
 01036m381,grid.511392.d,,,Scholar Rock (United States)
 03smt1w40,grid.511395.a,,,Jiangxi Applied Engineering Vocational Institute
@@ -12345,7 +12344,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 024ce2263,grid.512169.8,Q6155017,,Universidad Nacional Autónoma de Nicaragua-León
 023tqc074,grid.512170.0,,,Yanet Health College
 02yd50j87,grid.512179.9,Q24933515,,Lincoln University College
-04d6the49,grid.512183.c,Q3801493,,Rezekne Academy of Technologies
+04d6the49,grid.512183.c,,,Rezekne Academy of Technologies
 04ft5hg27,grid.512185.a,,,University of Customs and Finance
 01c1p1v81,grid.512197.9,Q13093435,,Universitas PGRI Semarang
 00cs91c30,grid.512204.0,Q51882865,,Universidade Federal de Jataí
@@ -12362,8 +12361,8 @@ ror_id,grid_id,wikidata_id,unitid,name
 04yw73836,grid.512233.4,Q6959012,,Nagpur Institute of Technology
 01vt7w207,grid.512248.8,Q19745902,,Universitas PGRI Madiun
 038dhfq97,grid.512249.9,Q6124158,,Jaipuria Institute of Management
-00gyn5p04,grid.512252.3,Q4496355,,Ivan Kozhedub Kharkiv National Air Force University
-04ac5jv08,grid.512256.7,Q4408456,,Saratov State Vavilov Agrarian University
+00gyn5p04,grid.512252.3,,,Ivan Kozhedub Kharkiv National Air Force University
+04ac5jv08,grid.512256.7,,,Saratov State Vavilov Agrarian University
 00rrrfr24,grid.512261.3,Q14874255,,Hwa Chong Institution
 02366kp40,grid.512262.0,Q6030601,,Informatics Institute of Technology
 001xs0312,grid.512270.3,Q6020647,,Indian Institute of Management Udaipur
@@ -12381,7 +12380,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 03f754t19,grid.512375.7,,,Gerash University of Medical Sciences
 05h6f5h95,grid.512378.a,,,Institute of Biomedical and Genetic Engineering
 02v4mmk55,grid.512385.8,Q14917504,,Indonesia Defense University
-00xkg1h94,grid.512391.d,Q16705028,,International Islamic Academy of Uzbekistan
+00xkg1h94,grid.512391.d,,,International Islamic Academy of Uzbekistan
 01aa12z17,grid.512406.4,Q30632611,,State Islamic University Ar-Raniry
 01zr1we84,grid.512411.2,Q2580954,,Military Academy of the Republic of Belarus
 02jcvm930,grid.512421.1,,,Centro Universitario Internazionale
@@ -12390,8 +12389,8 @@ ror_id,grid_id,wikidata_id,unitid,name
 00b3j7936,grid.512433.2,Q15941250,,Zhengzhou University of Science and Technology
 02wymx149,grid.512443.5,,,"The Mining, Geological & Metallurgical Insititute of India"
 027de2r94,grid.512446.0,,,Universitas Islam Negeri Raden Intan Lampung
-02zfnv673,grid.512448.e,Q105626534,,Institut Agama Islam Negeri Bukittinggi
-013sqra93,grid.512465.1,,,Antalya Bilim University
+02zfnv673,grid.512448.e,,,Institut Agama Islam Negeri Bukittinggi
+013sqra93,grid.512465.1,Q6081675,,Antalya Bilim University
 01w3v1s67,grid.512482.8,Q7443007,,Second Affiliated Hospital of Xinjiang Medical University
 04jth1r26,grid.512487.d,Q54869657,,Zhejiang University-University of Edinburgh Institute
 04dp8y877,grid.512493.8,Q20025751,,University Of Transport Technology
@@ -12413,7 +12412,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 017vm7w59,grid.512559.f,,,Institute of Forestry
 00bb9ch64,grid.512560.5,Q14956998,,Indian Institute of Information Technology Guwahati
 016md1z42,grid.512567.2,,,Samara Law Institute of the Federal Penitentiary Service of Russia
-00yx29a03,grid.512569.c,Q2207700,,Fernhochschule – The Mobile University
+00yx29a03,grid.512569.c,,,Fernhochschule – The Mobile University
 02exxtn84,grid.512590.a,,,Amity University
 01ragyh24,grid.512596.c,,,Dazhou Academy of Agricultural Sciences
 030ypay32,grid.512602.2,,,Middlesex University
@@ -12589,6 +12588,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 04f7jc139,grid.424704.1,Q1622092,,Hochschule Bremen
 03fzkfr34,grid.506450.2,Q86857055,,Landesinstitut für Pädagogik und Medien
 04askxv05,grid.506978.5,Q15963289,,Hunan University of Finance and Economics
+05mqfgg03,,Q4144467,,Horlivka Institute for Foreign Languages
 02mv6r745,grid.475669.f,,,Utah System of Higher Education
 038t2yw28,,Q1665131,,Institute for Educational Quality Improvement
 02mh24h06,grid.479501.e,Q6785518,,Mastery Charter Schools
@@ -12631,7 +12631,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01ff5td15,grid.512756.2,Q20857983,,Donald & Barbara Zucker School of Medicine at Hofstra/Northwell
 00ybseg45,,,,"Zoological Institute, State Academy of Sciences"
 01pj5v964,,Q17070669,,Madhav Institute of Technology & Science
-040h76494,grid.449076.8,Q17071873,,Manipal University Jaipur
+040h76494,,Q17071873,,Manipal University Jaipur
 016rf4127,,Q4201665,,Institute of Applied Mathematical Research of the Karelian Research Centre of the Russian Academy of Sciences
 05cczs510,grid.416987.5,Q4470499,,Ukrainian Medical Stomatological Academy
 00s6t1f81,grid.8982.b,Q219317,,University of Pavia
@@ -12801,7 +12801,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 057pha386,grid.471744.5,Q6447417,,Kurume Shin-Ai Women's College
 02wm03a77,grid.444209.f,Q5646966,,Hanazono University
 00e5yzw53,grid.419588.9,Q7589772,,St. Luke's International University
-04v5axh10,grid.411789.2,Q11260172,,Iwaki Meisei University
+04v5axh10,grid.411789.2,,,Iwaki Meisei University
 00pafka32,grid.443771.2,Q7976841,,Wayo Women's University
 02x96h768,grid.471724.3,,,Kumamoto Prefectural Educaiton Center
 000gm9x69,grid.471516.0,,,"National Institute of Technology, Hakodate College"
@@ -13326,7 +13326,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01a0mk874,grid.412006.1,Q1964403,,Namık Kemal University
 013mz8190,grid.441956.b,Q689475,,Laureate Education
 01z0mc198,grid.444111.5,Q12523473,,Tadulako University
-00v416254,grid.512485.f,Q10771881,,Học Viện Công Nghệ Bưu Chính Viễn Thông Cơ sở TP. Hồ Chí Minh
+00v416254,grid.512485.f,,,Học Viện Công Nghệ Bưu Chính Viễn Thông Cơ sở TP. Hồ Chí Minh
 036agwg70,grid.444636.7,Q5317233,,Duta Wacana Christian University
 048c8ew36,grid.444656.1,Q12523378,,Mercu Buana University of Yogyakarta
 00r8w8f84,grid.31143.34,Q1360237,,Mohammed V University
@@ -13655,7 +13655,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 021zvq422,grid.449791.6,Q2693497,,The Hague University of Applied Sciences
 01y6ccj36,grid.412083.c,Q6974928,,National Pingtung University of Science and Technology
 02bf6br77,grid.444924.b,Q6473351,,Lahore College for Women University
-0111z2552,grid.445120.6,Q30257215,,Elbląska Uczelnia Humanistyczno-Ekonomiczna
+0111z2552,grid.445120.6,,,Elbląska Uczelnia Humanistyczno-Ekonomiczna
 02w4tny03,grid.440635.0,Q7488528,,Shanghai University of Electric Power
 01v4e7289,grid.449518.5,Q1476754,,Russian-Armenian University
 02fsk7e17,grid.444273.2,Q7603641,,State University of Semarang
@@ -14499,7 +14499,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02e4e5139,grid.505905.c,,,Koriyama Institute of Health Sciences
 058kvs153,grid.509224.8,Q24947515,,University of Agricultural and Horticultural Sciences
 04tkhxj35,grid.443844.b,Q3954913,,Shingyeong University
-05v0wcb32,grid.445747.1,Q30257543,,Ukrainian National Tchaikovsky Academy of Music
+05v0wcb32,grid.445747.1,,,Ukrainian National Tchaikovsky Academy of Music
 02x715f55,grid.483383.7,,,Hochalpines Institut Ftan
 03xzhx774,grid.462138.a,Q5001831,,Business and Hotel Management School
 05tcdrk12,grid.510442.6,Q60749215,,Indrashil University
@@ -14742,7 +14742,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00txhkt32,grid.411957.f,Q623604,,Handong Global University
 0440p1d37,grid.411710.2,Q5520696,,GITAM University
 02jcggd50,,Q44011525,,Universidad de Ciencias Médicas de Guantánamo
-052pe2w94,,,,Ukrainian State University of Science and Technologies
+052pe2w94,,Q4163239,,Ukrainian State University of Science and Technologies
 003109y17,grid.7763.5,Q2067315,,University of Cagliari
 013x4kb81,grid.443566.6,Q15904170,,Hebei GEO University
 038y3sz68,grid.453083.9,Q6792583,,Higher Education Commission
@@ -14773,9 +14773,9 @@ ror_id,grid_id,wikidata_id,unitid,name
 02kpaqs60,grid.469645.c,,,Zhejiang Radio and Television University
 01de7dx97,,,,Institut Supérieur des Sciences Appliquées et de Technologies de Gafsa
 05p3z3a83,,,,Sohail University
-05f0rzm15,grid.440516.2,Q2668892,,Transnational University Limburg
+05f0rzm15,grid.440516.2,,,Transnational University Limburg
 03r1jm528,grid.412139.c,Q1331614,,Nelson Mandela University
-000kxhc93,,Q104844767,,All India Institute of Medical Sciences Guwahati
+000kxhc93,,,,All India Institute of Medical Sciences Guwahati
 03460ag39,grid.502051.3,Q24952056,,Instituto Superior Pedro Francisco Bono
 05xpj2n48,,Q10829029,,HUTECH University
 02th47404,grid.449289.a,Q467025,,Pontifical Gregorian University
@@ -14822,7 +14822,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02jj4jf83,grid.466377.7,,,Institut Catholique d'Arts et Métiers
 00wbwde85,,Q52637707,,Universitas Nahdlatul Ulama Surabaya
 01180st77,,Q3578104,,ENCPB - Lycée Pierre-Gilles-de-Gennes
-02ja3st78,,Q109911728,,Bina Bangsa Getsempena University
+02ja3st78,,,,Bina Bangsa Getsempena University
 04mznrw11,grid.413068.8,Q1816069,,University of Benin
 012v5a532,,Q100993174,,Kalinga State University
 04v6tba94,grid.441510.5,Q30293897,,Universidad Psicología Industrial Dominicana
@@ -15187,7 +15187,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01b4w2923,grid.11793.3d,Q607331,,University of San Carlos of Guatemala
 01pnej532,grid.9008.1,Q369839,,University of Szeged
 050qmg959,grid.412634.6,Q950609,,Singapore Management University
-00yt9w502,grid.445575.2,Q9380765,,WSB Merito University in Warsaw
+00yt9w502,grid.445575.2,,,WSB Merito University in Warsaw
 00p7p3302,grid.6963.a,Q1678753,,Poznań University of Technology
 041akq887,grid.411237.2,Q1851075,,Universidade Federal de Santa Catarina
 02j8k6t75,grid.58192.37,Q819402,,Işık University
@@ -15248,7 +15248,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 028svp844,grid.440806.e,Q780301,,Université de Kisangani
 04vmbkv36,,Q1877909,,Lutherische Theologische Hochschule Oberursel
 025t4nz25,grid.448557.f,Q3624015,,"Universitatea de Stat „Bogdan Petriceicu Hasdeu"" din Cahul"
-02558xx03,,Q109913058,,Universitas Dhyana Pura
+02558xx03,,,,Universitas Dhyana Pura
 03nhq5b06,grid.445303.5,Q2496026,,Euphrosyne Polotskaya State University
 0028v3876,grid.412047.4,Q697299,,National Chung Cheng University
 04q6c7p66,grid.162107.3,Q48880972,,China University of Geosciences (Beijing)
@@ -15455,7 +15455,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00yp5c433,grid.18192.33,Q1164068,,"National Technical University ""Kharkiv Polytechnic Institute"""
 0198j4566,grid.442184.f,Q6156835,,Universidad de Las Américas
 04ded0672,grid.444045.5,Q280361,,Andalas University
-00y2dy597,grid.444830.f,Q7268072,,Qom University of Medical Science and Health Services
+00y2dy597,grid.444830.f,,,Qom University of Medical Science and Health Services
 00hhe7195,grid.442593.d,Q428136,,Ez-Zitouna University
 035h06756,grid.502762.4,Q1351705,,Magtymguly Turkmen State University
 03f077y84,grid.22657.34,Q1342858,,Latvia University of Life Sciences and Technologies
@@ -15464,7 +15464,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 04mgxhr44,,Q21190858,,Mugda Medical College
 02sp3q482,grid.412298.4,Q4693940,,"The University of Agriculture, Peshawar"
 0558r1s97,grid.462441.1,Q11683325,,Instituto Tecnológico de Ciudad Juárez
-01r8xsy94,grid.466462.4,Q29293,,ESCP Business School
+01r8xsy94,grid.466462.4,,,ESCP Business School
 006yrbb28,,Q3577907,,École de Psychologues Praticien
 052pakb34,,Q17030460,,Changchun University of Technology
 043a7rc44,grid.452848.7,Q1470431,,Catholic University of Paris
@@ -15484,7 +15484,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 04qjmsq15,grid.472952.f,,,Escola Superior de Ciências da Saúde
 00rbe2516,,,,"Millennium Institute for Subatomic Physics at High-Energy Frontier, Saphir"
 023pskh72,grid.442486.8,Q3551629,,Maseno University
-036tn3p81,,Q19731006,,Politeknik Negeri Tanah Laut
+036tn3p81,,,,Politeknik Negeri Tanah Laut
 00q3h2974,grid.469380.0,,,Vlaamse Interuniversitaire Raad
 01pczmy17,,,,ISblue
 04haebc03,grid.25055.37,Q1895354,,Memorial University of Newfoundland
@@ -15611,7 +15611,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 04kx2sy84,grid.256111.0,Q5507366,,Fujian Agriculture and Forestry University
 04ers2y35,grid.7704.4,Q500692,,University of Bremen
 05fe7ax82,grid.451239.8,Q859363,,Sciences Po
-05tqmmk50,,Q109912583,,Universitas Sains dan Teknologi Komputer
+05tqmmk50,,,,Universitas Sains dan Teknologi Komputer
 04zhrfn38,grid.441034.6,Q5174858,,Instituto Tecnológico de Costa Rica
 038ajz246,grid.436083.a,Q385471,,Lambda
 05k89ew48,grid.9670.8,Q610253,,University of Jordan
@@ -15625,7 +15625,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 03qxff017,grid.9619.7,Q174158,,Hebrew University of Jerusalem
 00987cb86,grid.410543.7,Q1817137,,Universidade Estadual Paulista (Unesp)
 0422kzb24,grid.412525.5,Q973767,,Pontificia Universidad Católica Argentina
-04nw9e879,,Q120671089,,Sekolah Tinggi Pastoral Don Bosco Tomohon
+04nw9e879,,,,Sekolah Tinggi Pastoral Don Bosco Tomohon
 05h9t7759,grid.411750.6,Q495347,,University of Isfahan
 052kwzs30,grid.412144.6,Q6411791,,King Khalid University
 04y5kwa70,grid.6227.1,Q622906,,University of Technology of Compiègne
@@ -15741,7 +15741,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 011gev843,,,,Popakademie Baden-Württemberg
 00rqy9422,grid.1003.2,Q866012,,University of Queensland
 01g0t1k10,,,,Graduate School of Business and Entrepreneurship under the Cabinet of Ministers of the Republic of Uzbekistan
-02qn6jw83,,Q109919621,,Institut Agama Kristen Negeri Manado
+02qn6jw83,,,,Institut Agama Kristen Negeri Manado
 05v4dza81,grid.440768.9,Q3958218,,Syiah Kuala University
 00f98bm36,,Q39055741,,Women University Swabi
 04cxjpx43,,Q7929226,,Vijaya College
@@ -15835,14 +15835,14 @@ ror_id,grid_id,wikidata_id,unitid,name
 01srarb97,grid.474354.5,,,Olympic Coast Discovery Center
 008rwr521,,Q97320401,,Istanbul Health and Technology University
 04q6x6x06,,Q28220884,,Kutaisi University
-04hasps36,,,,Academy of Logistics and Transport
+04hasps36,,Q4208076,,Academy of Logistics and Transport
 03jbkky50,grid.467509.9,Q12513120,,Institut Sains dan Teknologi Terpadu Surabaya
 05g2cmx71,,Q121745758,,"Maharshi Vishwamitra College, Buxar"
 04tsk2644,grid.5570.7,Q309948,,Ruhr University Bochum
 018zc6p18,,,,Institut Teknologi Telkom Purwokerto
 032583b91,,,,C.V. Raman Global University
 01encsj80,grid.7621.2,Q493141,,University of Botswana
-00tabsj08,grid.510454.1,,,Istanbul Topkapi University
+00tabsj08,grid.510454.1,Q6082132,,Istanbul Topkapi University
 003szmg30,grid.440795.b,Q5873959,,Ho Chi Minh City International University
 05jfbgm49,grid.454160.2,Q5873997,,Ho Chi Minh City University of Science
 00waaqh38,grid.444808.4,Q943759,,Vietnam National University Ho Chi Minh City
@@ -15854,7 +15854,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 006kr7r70,,,,Okavango Research Institute
 05gypvt76,grid.444313.5,Q7918104,,Veer Kunwar Singh University
 02v6n4042,,,,Instituto Europeu de Estudos Superiores
-02jxxbt79,,Q109913492,,Universitas Mulia
+02jxxbt79,,,,Universitas Mulia
 04g08bx14,,Q110900351,,European University
 05sgw3s08,grid.430878.0,Q4452982,,Tashkent Medical Academy
 00jrpyg10,grid.410920.e,Q10387774,,Atlântica Instituto Universitário
@@ -15893,7 +15893,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02xpmtg36,grid.448837.4,Q5873981,,Ho Chi Minh City University of Culture
 054e86395,grid.427542.2,,,Airline Training Program Flight School
 01ggzh816,grid.449867.0,Q1962291,,Yerevan State Linguistic University
-03syhjw18,grid.445448.d,,,Hlukhiv State Pedagogical University
+03syhjw18,grid.445448.d,Q4140322,,Hlukhiv State Pedagogical University
 01tx6pn92,grid.412408.b,,,Texas A&M Health Science Center
 020h0qv97,grid.445607.4,,,Kremenchuk University of Economics Information Technology and Management
 02n1jcr11,grid.445758.f,,,Tomori Pál College
@@ -16355,7 +16355,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00dna7t83,grid.411179.b,Q5440475,,Universidade Federal de Alagoas
 027s08w94,grid.412323.5,Q7228043,,Universidade Estadual de Ponta Grossa
 02q070r42,grid.442132.2,Q7894353,,Universidade Católica Dom Bosco
-0190k2z71,,Q109912890,,Politeknik Energi dan Mineral Akamigas
+0190k2z71,,,,Politeknik Energi dan Mineral Akamigas
 00r6fph53,,Q18455299,,Liwa College
 015n1m812,grid.442053.4,Q10387910,,Universidade do Estado da Bahia
 042r36z33,grid.442052.5,Q4562501,,Universidade do Estado do Pará
@@ -16463,7 +16463,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 01wjejq96,grid.15444.30,Q39988,,Yonsei University
 045wgfr59,grid.11918.30,Q963530,,University of Stirling
 04ezk3x31,grid.410542.6,Q1933558,,Université Toulouse - Jean Jaurès
-04zy9j617,grid.449699.f,Q962467,,University of the Arctic
+04zy9j617,,Q962467,,University of the Arctic
 02t7y5s37,,Q827783,,U.S. Army Training and Doctrine Command
 01cbtr271,grid.435458.b,Q10178,,École d'Ingénieurs en Chimie et Sciences du Numérique
 02xs6gm19,grid.487922.2,,,American Military Academy
@@ -16592,7 +16592,6 @@ ror_id,grid_id,wikidata_id,unitid,name
 01cams608,,,,Napata College
 000t0f062,grid.419993.f,Q5968342,,Education University of Hong Kong
 00nt41z93,grid.7311.4,Q29671,,University of Aveiro
-05p8z3f47,grid.411031.6,Q929715,,Purdue University System
 04g3dmm81,,Q31666747,,Universiteti i Gjakovës “Fehmi Agani”
 042hptv04,grid.449129.3,Q5704726,,Medical University of Ilam
 02az5b805,grid.510475.2,Q3578506,,École Supérieure des Techniques Aéronautiques et de Construction Automobile
@@ -16667,13 +16666,13 @@ ror_id,grid_id,wikidata_id,unitid,name
 05eze5936,,Q25532246,,Andijan Machine-building Institute
 04175wc52,grid.412121.5,Q6081316,,Düzce Üniversitesi
 0281pgk04,,,,AAA College of Engineering and Technology
-03k1bsr36,grid.5613.1,Q287072,,University of Burgundy
+03k1bsr36,grid.5613.1,,,University of Burgundy
 045yr8682,,Q3578092,,Ecole Nationale d'Ingénieurs de Monastir
 031jjng67,grid.444557.3,Q4946088,,Universitas Borneo Tarakan
 0509eed67,,,,The College of Industrial Technology
 05fvxrd95,,Q15983437,,Institute of Southern Punjab
 04cmq4p11,,Q88655697,,Triagon Academy
-01v4gk171,,Q121775355,,Politeknik Negeri Sriwijaya
+01v4gk171,,,,Politeknik Negeri Sriwijaya
 0073ny545,,,,Centre universitaire Salhi Ahmed - Naama
 034mn7m94,,Q85816076,,Rawalpindi Women University
 029t9db68,grid.444829.7,Q2428356,,Tashkent State University of Economics
@@ -16776,7 +16775,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 05td3s095,grid.27871.3b,Q1804773,,Nanjing Agricultural University
 04qgh9k98,grid.422078.b,Q7450279,,Seneca Polytechnic
 002rjbv21,grid.38678.32,Q1634522,,Université du Québec à Montréal
-03gc29549,,,,"Samarkand State University of Veterinary Medicine, Livestock and Biotechnologies"
+03gc29549,,Q25514536,,"Samarkand State University of Veterinary Medicine, Livestock and Biotechnologies"
 05dq6kg38,,Q52636930,,Institut Agama Islam Negeri Kendari
 00a2xv884,grid.13402.34,Q197543,,Zhejiang University
 04ct4d772,grid.263826.b,Q3551770,,Southeast University
@@ -16875,7 +16874,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 004raaa70,grid.508721.9,Q20669873,,Université de Toulouse
 0182gym65,grid.466558.c,Q5062908,,Centro de Estudios Políticos y Constitucionales
 02egmk993,grid.69775.3a,Q1510516,,University of Science and Technology Beijing
-05v50z525,,Q2983590,,Collège Gérald-Godin
+05v50z525,,,,Collège Gérald-Godin
 048kc0s52,grid.4862.8,Q3400501,,Wrexham University
 04xrm3t06,grid.466774.0,Q4890490,,National Institute of Physical Education of Catalonia
 01zzkcm34,grid.440683.d,Q1467657,,Irkutsk National Research Technical University
@@ -16900,7 +16899,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 006gksa02,grid.10863.3c,Q2303432,,Universidad de Oviedo
 035h6g182,grid.423829.6,,,Centro de Estudios Monetarios y Financieros
 050c3cw24,grid.15043.33,Q1235594,,Universitat de Lleida
-032ghem84,grid.440319.b,Q30293510,,Reial Acadèmia de Ciències i Arts de Barcelona
+032ghem84,grid.440319.b,,,Reial Acadèmia de Ciències i Arts de Barcelona
 02jnjb343,,Q12486116,,Universitas Islam Negeri Antasari Banjarmasin
 04pp8hn57,grid.5477.1,Q221653,,Utrecht University
 02jjdwm75,grid.45343.35,Q283501,,IE University
@@ -16911,7 +16910,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 03x4v9v20,,Q109911887,,STIE Enam Enam Kendari
 017zhmm22,grid.43169.39,Q981237,,Xi'an Jiaotong University
 00kybxq39,grid.86715.3d,Q2579532,,Université de Sherbrooke
-026wyz662,grid.444710.2,Q25514536,,Samarkand Institute of Veterinary Medicine
+026wyz662,grid.444710.2,,,Samarkand Institute of Veterinary Medicine
 00dc8gj51,grid.424863.f,,,Fundación Universidad Empresa de la Región de Murcia
 048g2sh07,grid.444487.f,Q2096395,,Universiti Teknologi Petronas
 02z0cah89,grid.410476.0,Q3179598,,Universidad Publica de Navarra
@@ -16932,7 +16931,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 043nxc105,grid.5338.d,Q383568,,Universitat de València
 03z6jp965,grid.17689.31,Q571293,,Université Sorbonne Nouvelle
 05w21nn13,grid.410570.7,Q7784898,,Army Medical University
-0546sy919,,Q108794895,,PAMO University of Medical Sciences
+0546sy919,,,,PAMO University of Medical Sciences
 041nas322,grid.10388.32,Q152171,,University of Bonn
 03a2pqz96,grid.484075.a,,,Department of Education
 054qehp48,,Q2277304,,Nederlandse Onderzoekschool Voor Astronomie
@@ -17238,7 +17237,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 00tncsy16,grid.442167.2,Q9091550,,Universidad EAN
 01x03t965,grid.442107.4,Q21574117,,Fundación Universitaria Compensar
 02v6kpv12,grid.15781.3a,Q1273188,,Université Toulouse III - Paul Sabatier
-00g8ggv10,,,,Cégep Gérald-Godin
+00g8ggv10,,Q2983590,,Cégep Gérald-Godin
 0133f6116,,,,Universidad Tecnológica del Centro de Veracruz
 00se2k293,grid.260539.b,,,National Yang Ming Chiao Tung University
 0545we460,,,,South-East Scotland School of Anaesthesia
@@ -17266,7 +17265,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02y1g7e04,,,,"Government Polytechnic, Chhatrapati Sambhaji Nagar"
 00fxh9j50,,Q61995979,,Shanghai Yangpu Senior High School
 04s1nv328,grid.1039.b,Q1640648,,University of Canberra
-03493zm15,,Q109913185,,Universitas DIPA Makassar
+03493zm15,,,,Universitas DIPA Makassar
 01w8zj169,grid.464683.b,Q29162586,,Instituto Tecnológico de Tuxtepec
 05t0gvw18,,Q10302819,,Instituto de Educação Superior de Brasília
 01sf06y89,grid.1004.5,Q741082,,Macquarie University
@@ -17388,7 +17387,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 007gerq75,grid.444449.d,Q24187334,,"Asian Institute of Medicine, Science and Technology"
 03ysnvs95,,Q18484073,,Centro Superior de Ensino e Pesquisa de Machado
 01tmp8f25,grid.9486.3,Q222738,,Universidad Nacional Autónoma de México
-038a1tp19,grid.252470.6,Q4806490,,Asia University
+038a1tp19,grid.252470.6,,,Asia University
 00264zf15,grid.470063.6,,,Zhaotong University
 04tmf0341,,,,Instituto de Investigaciones Gino Germani
 04qtj9h94,grid.5170.3,Q1269766,,Technical University of Denmark
@@ -17442,7 +17441,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 015m7wh34,grid.410368.8,Q726595,,University of Rennes
 01s3fs709,grid.424765.6,Q3152599,,Institut Agro Rennes-Angers
 0108gqn38,,Q125457809,,Orlando College of Osteopathic Medicine
-03vte9x46,grid.452444.7,Q7075448,,Observatoire des Sciences de l'Univers de Grenoble
+03vte9x46,,Q7075448,,Observatoire des Sciences de l'Univers de Grenoble
 00pb7yd26,,,,Women University of Azad Jammu & Kashmir Bagh
 02nmd8z76,,Q55616244,,Krea University
 00j5kgp20,,Q12630898,,Faculty of Mechanical Engineering and Naval Architecture in Zagreb
@@ -18764,7 +18763,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 02vk0qj37,grid.422509.8,Q4564567,164216,Washington College
 01zc5h177,grid.419626.e,Q6800835,164270,McDaniel College
 01hzrxx48,grid.463014.4,Q8037300,164313,Wor-Wic Community College
-,,,164368,Hult International Business School
+01my2ss20,grid.454624.5,Q1047226,164368,Hult International Business School
 02p014d02,grid.417958.6,Q3695722,164447,American International College
 028vqfs63,grid.252152.3,Q49165,164465,Amherst College
 05tep8d22,grid.446347.6,Q4767291,164492,Anna Maria College
@@ -20911,6 +20910,7 @@ ror_id,grid_id,wikidata_id,unitid,name
 ,,,243647,Palau Community College
 034amfs97,grid.267634.2,Q7896780,243665,University of the Virgin Islands
 00f54p054,grid.168010.e,Q41506,243744,Stanford University
+02dqehb95,grid.169077.e,Q217741,243780,Purdue University West Lafayette
 ,,,243799,Blue Hills Regional Technical School
 01s8vy398,grid.420154.6,Q7138388,243823,Parker University
 ,,,243832,EDP University of Puerto Rico Inc-San Juan
