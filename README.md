@@ -8,22 +8,31 @@
 
 ## Moving to os-institutions
 
-The `institutions.parquet` asset on each
-[os-institutions release](https://github.com/opensyllabus/os-institutions/releases)
-has the same columns as `latest.csv` (`ror_id`, `grid_id`, `wikidata_id`,
-`unitid`, `name`), plus more (URLs, coordinates, alternate names, ...).
+Every [os-institutions release](https://github.com/opensyllabus/os-institutions/releases)
+publishes a `crosswalk.csv` asset with the same columns as `latest.csv`
+(`ror_id`, `grid_id`, `wikidata_id`, `unitid`, `name`), so it is a drop-in
+replacement. The current version is
+[v1.1.0](https://github.com/opensyllabus/os-institutions/releases/tag/v1.1.0):
+
+```sh
+curl -L -o latest.csv \
+  https://github.com/opensyllabus/os-institutions/releases/latest/download/crosswalk.csv
+```
+
+The `institutions.parquet` asset has the same columns plus more (URLs,
+coordinates, alternate names, ...).
 
 From Python:
 
 ```python
 import os_institutions
 
-dataset = os_institutions.load_dataset()  # pandas DataFrame
+dataset = os_institutions.load_dataset("v1.1.0")  # pandas DataFrame
 crosswalk = dataset[["ror_id", "grid_id", "wikidata_id", "unitid", "name"]]
 crosswalk.to_csv("latest.csv", index=False)
 ```
 
-or download `institutions.parquet` from the latest release directly. See the
+See the
 [os-institutions README](https://github.com/opensyllabus/os-institutions#readme)
 for installation and for the institution matcher.
 
